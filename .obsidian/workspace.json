@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "4cc46370b621c1d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9746abf7b819de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b41d4de3ff6060d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación/Temario/Indice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f06671ee36d343d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación/Temario/Indice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bed6df2fc676752",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd1279bd80d76171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2c18a5d61a4b87e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ec198313a1dec31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5353ebbf40ed2c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac8bf50f6d1d6a5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "465cd9934f9708ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff003e2514aea08b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programación/Temario/Indice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4c45e84a3ab9202",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programación/Temario/Indice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc0513a8579c14b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f366db5dfe6c381",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programación/Temario/Indice.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f06671ee36d343d",
+  "lastOpenFiles": [
+    "Programación/Temario/Javascript/Ejercicios/Taller 1.md",
+    "Programación/Lenguajes/Javascript/Tipos de datos.md",
+    "Programación/Lenguajes/Javascript/Entrada-Salida de datos.md",
+    "Programación/Lenguajes/Javascript/¿Qué es Javascript?.md",
+    "Programación/Conceptos/Frases que debo recordar... (o seré despedido...).md",
+    "Programación/Temario/Indice.md",
+    "Programación/Temario/Javascript/Ejercicios",
+    "Programación/Temario/Javascript",
+    "Programación/Conceptos/Tipado dinámico.md",
+    "Programación/Temario",
+    "Programación/Conceptos/Tipado estático.md",
+    "Programación/Conceptos/Tipado fuerte.md",
+    "Programación/Conceptos/Tipado de datos.md",
+    "Programación/Lenguajes/Javascript/Variables.md",
+    "Programación/Conceptos/Tipado débil.md",
+    "Programación/Lenguajes/Javascript/Hoisting.md",
+    "Programación/Lenguajes/Javascript/Funciones.md",
+    "Programación/Conceptos/Funciones.md",
+    "Programación/Lenguajes/Lenguajes de Programación.md",
+    "[[¿Que.md",
+    "Productos interesantes.md",
+    "Programación/Lenguajes/Bash/Comandos Útiles.md",
+    "Programación/Lenguajes/Bash/¿Que es bash?.md",
+    "Programación/Lenguajes/Bash",
+    "Programación/Lenguajes",
+    "Programación/Lenguajes/Javascript",
+    "Programación/Tipado estático.md",
+    "Tipado estático.md",
+    "Untitled.md",
+    "Programación/Conceptos",
+    "Programación",
+    "Los Vientos Cafe.md"
+  ]
+}
