@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d9746abf7b819de5",
+        "id": "e1601898614ec408",
         "type": "tabs",
         "children": [
           {
-            "id": "b41d4de3ff6060d3",
+            "id": "70b5696b6567cfd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Temario/Indice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f06671ee36d343d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación/Temario/Indice.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/Temario/Indice.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/Temario/Indice.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación/Temario/Indice.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,14 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f06671ee36d343d",
+  "active": "70b5696b6567cfd1",
   "lastOpenFiles": [
-    "Programación/Temario/Javascript/Ejercicios/Taller 1.md",
+    "Programación/Temario/Indice.md",
+    "README.md",
+    "Programación/Lenguajes/Javascript/Control de flujo.md",
+    "Programación/Temario/Javascript/Ejercicios/Taller 2.md",
+    "2024-04-30.md",
+    "Programación/Lenguajes/Javascript/Operadores.md",
     "Programación/Lenguajes/Javascript/Tipos de datos.md",
     "Programación/Lenguajes/Javascript/Entrada-Salida de datos.md",
-    "Programación/Lenguajes/Javascript/¿Qué es Javascript?.md",
+    "Programación/Lenguajes/Lenguajes de Programación.md",
+    "Programación/Conceptos/Expresiones y Sentencias.md",
+    "Programación/Lenguajes/Javascript/Hoisting.md",
+    "Programación/Lenguajes/Javascript/Variables.md",
+    "Programación/Temario/Javascript/Ejercicios/Taller 1.md",
     "Programación/Conceptos/Frases que debo recordar... (o seré despedido...).md",
-    "Programación/Temario/Indice.md",
+    "Untitled.canvas",
+    "Programación/Lenguajes/Javascript/¿Qué es Javascript?.md",
     "Programación/Temario/Javascript/Ejercicios",
     "Programación/Temario/Javascript",
     "Programación/Conceptos/Tipado dinámico.md",
@@ -174,12 +171,9 @@
     "Programación/Conceptos/Tipado estático.md",
     "Programación/Conceptos/Tipado fuerte.md",
     "Programación/Conceptos/Tipado de datos.md",
-    "Programación/Lenguajes/Javascript/Variables.md",
     "Programación/Conceptos/Tipado débil.md",
-    "Programación/Lenguajes/Javascript/Hoisting.md",
     "Programación/Lenguajes/Javascript/Funciones.md",
     "Programación/Conceptos/Funciones.md",
-    "Programación/Lenguajes/Lenguajes de Programación.md",
     "[[¿Que.md",
     "Productos interesantes.md",
     "Programación/Lenguajes/Bash/Comandos Útiles.md",
@@ -187,11 +181,7 @@
     "Programación/Lenguajes/Bash",
     "Programación/Lenguajes",
     "Programación/Lenguajes/Javascript",
-    "Programación/Tipado estático.md",
-    "Tipado estático.md",
-    "Untitled.md",
     "Programación/Conceptos",
-    "Programación",
-    "Los Vientos Cafe.md"
+    "Programación"
   ]
 }
