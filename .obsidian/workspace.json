@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Programación/Conceptos/Tipado de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Programación/Conceptos/Tipado de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Programación/Conceptos/Tipado de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Programación/Conceptos/Tipado de datos.md"
               }
             }
           }
@@ -148,22 +148,27 @@
   },
   "active": "70b5696b6567cfd1",
   "lastOpenFiles": [
-    "Programación/Temario/Indice.md",
-    "README.md",
-    "Programación/Lenguajes/Javascript/Control de flujo.md",
+    "Programación/Conceptos/Funciones.md",
+    "Programación/Conceptos/Frases.md",
+    "Programación/Conceptos/Expresiones y Sentencias.md",
+    "Programación/Lenguajes/Bash/Comandos Utiles.md",
+    "Programación/Lenguajes/Bash/Que es bash.md",
+    "Compilador.md",
+    "Productos interesantes.md",
+    "Untitled.canvas",
     "Programación/Temario/Javascript/Ejercicios/Taller 2.md",
+    "README.md",
+    "Programación/Temario/Indice.md",
+    "Programación/Lenguajes/Javascript/Control de flujo.md",
     "2024-04-30.md",
     "Programación/Lenguajes/Javascript/Operadores.md",
     "Programación/Lenguajes/Javascript/Tipos de datos.md",
     "Programación/Lenguajes/Javascript/Entrada-Salida de datos.md",
     "Programación/Lenguajes/Lenguajes de Programación.md",
-    "Programación/Conceptos/Expresiones y Sentencias.md",
     "Programación/Lenguajes/Javascript/Hoisting.md",
     "Programación/Lenguajes/Javascript/Variables.md",
     "Programación/Temario/Javascript/Ejercicios/Taller 1.md",
-    "Programación/Conceptos/Frases que debo recordar... (o seré despedido...).md",
-    "Untitled.canvas",
-    "Programación/Lenguajes/Javascript/¿Qué es Javascript?.md",
+    "Programación/Lenguajes/Javascript/Que es Javascript.md",
     "Programación/Temario/Javascript/Ejercicios",
     "Programación/Temario/Javascript",
     "Programación/Conceptos/Tipado dinámico.md",
@@ -173,11 +178,6 @@
     "Programación/Conceptos/Tipado de datos.md",
     "Programación/Conceptos/Tipado débil.md",
     "Programación/Lenguajes/Javascript/Funciones.md",
-    "Programación/Conceptos/Funciones.md",
-    "[[¿Que.md",
-    "Productos interesantes.md",
-    "Programación/Lenguajes/Bash/Comandos Útiles.md",
-    "Programación/Lenguajes/Bash/¿Que es bash?.md",
     "Programación/Lenguajes/Bash",
     "Programación/Lenguajes",
     "Programación/Lenguajes/Javascript",

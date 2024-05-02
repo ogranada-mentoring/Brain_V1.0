@@ -1,4 +1,4 @@
-* [[¿Qué es Javascript?]]
+* [[Que es Javascript]]
 * [[Entrada-Salida de datos]]
 * [[Variables]]
 	* [[Taller 1]]
