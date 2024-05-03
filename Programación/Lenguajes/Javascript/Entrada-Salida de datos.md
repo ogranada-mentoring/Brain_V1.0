@@ -1,4 +1,6 @@
-### Para la consola de desarrollo:
+## Para la consola de desarrollo:
+
+### Escribir datos
 
 En javascript podemos escribir datos de las siguientes maneras:
 ```js
@@ -8,7 +10,15 @@ console.log( 'Este es otro saludo' )
 console.log( `Este es un ejemplo de comilla francesa ${1111}` )
 ```
 
-### Para el navegador:
+
+
+
+
+
+
+## Para el navegador:
+
+### Escribir datos
 
 En javascript podemos escribir datos de las siguientes maneras:
 ```js
@@ -17,6 +27,8 @@ alert( "Hola Mundo!" )
 alert( 'Este es otro saludo' )
 alert( `Este es un ejemplo de comilla francesa ${1111}` )
 ```
+
+### Solicitar Datos
 
 Además podemos solicitar datos de teclado de la siguiente manera:
 ```js

@@ -70,7 +70,21 @@ let objeto_con_atributo = {
 let objeto_3 = Object.create({})
 ```
 
-Teniendo en cuenta lo anterior, podemos decir que existen estructuras de datos más complejas, como los arreglos, éstas estructuras de datos son objetos, pero tiene propiedades especiales (e.g. length). Los arreglos son muy usados, por ende tienen algunas ayudas  especificas del lenguaje, como el uso de los corchetes (`[]`) que permiten crear arreglos fácilmente y manipular su contenido.
+Teniendo en cuenta lo anterior, podemos decir que existen estructuras de datos más complejas, como los Arrays.
+## Array
+
+Teniendo en cuenta lo anterior, los Arrays (o arreglos) son Objetos, pero éstas estructuras tiene propiedades especiales (por ejemplo, `length`). Los arreglos son muy usados por que permiten almacenar una colección de datos y acceder a ellos de manera grupal o individual.
+
+Los Arrays tienen algunas ayudas  especificas del lenguaje, como el uso de los corchetes (`[]`) que permiten crear arreglos fácilmente:
+```js
+let arreglo = [];
+```
+Los corchetes también sirven manipular su contenido:
+```js
+arreglo[0] = 1;
+console.log(arreglo[0]);
+```
+
 Los arreglos pueden almacenar datos de cualquier tipo, además, cada `casilla` tiene un número para identificarla, la primera usa el número 0, la segunda el 1, la tercera el 2 y así sucesivamente.
 
 Ejemplos:

@@ -11,6 +11,15 @@ isOk('yes')      // expresión con predicados
 "Hola".length    // ...
 ```
 
+además de eso, en varios lenguajes las expresiones pueden estar rodeadas por paréntesis, pues los paréntesis funcionan como elementos de agrupación de datos.
+
+Ejemplos:
+```js
+(2 + 2)          // 4
+((2 < 3))        // false
+(((((3 + 3)) + ((2 + 2))))) // 10
+```
+
 ## Sentencias
 
 Son las unidades ejecutables más pequeñas de un programa, puede ser una línea de código escrita la cual tiene un final bien definido, para muchos lenguajes es un carácter (e.g. `;`  en C, C++, C#, Java y Javascript).

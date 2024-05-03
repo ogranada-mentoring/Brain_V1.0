@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Conceptos/Tipado de datos.md",
+                "file": "Programación/Temario/Javascript/Ejemplos/Triqui_v1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/Conceptos/Tipado de datos.md",
+                "file": "Programación/Temario/Javascript/Ejemplos/Triqui_v1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/Conceptos/Tipado de datos.md",
+                "file": "Programación/Temario/Javascript/Ejemplos/Triqui_v1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación/Conceptos/Tipado de datos.md"
+                "file": "Programación/Temario/Javascript/Ejemplos/Triqui_v1.md"
               }
             }
           }
@@ -148,36 +148,37 @@
   },
   "active": "70b5696b6567cfd1",
   "lastOpenFiles": [
+    "Programación/Conceptos/Expresiones y Sentencias.md",
+    "Programación/Temario/Javascript/Ejemplos/Triqui_v1.md",
+    "Programación/Temario/Javascript/Ejemplos",
+    "Programación/Lenguajes/Javascript/Ciclos.md",
+    "Programación/Lenguajes/Javascript/Variables.md",
+    "Programación/Lenguajes/Javascript/Que es Javascript.md",
+    "Programación/Lenguajes/Javascript/Tipos de datos.md",
+    "Programación/Lenguajes/Javascript/Entrada-Salida de datos.md",
+    "Programación/Lenguajes/Javascript/Operadores.md",
+    "Programación/Temario/Javascript/Ejercicios/Taller 2.md",
+    "Programación/Lenguajes/Javascript/Control de flujo.md",
+    "Programación/Temario/Indice.md",
+    "Programación/Temario/Javascript/Ejercicios/Taller 1.md",
+    "Programación/Conceptos/Tipado de datos.md",
     "Programación/Conceptos/Funciones.md",
     "Programación/Conceptos/Frases.md",
-    "Programación/Conceptos/Expresiones y Sentencias.md",
     "Programación/Lenguajes/Bash/Comandos Utiles.md",
     "Programación/Lenguajes/Bash/Que es bash.md",
     "Compilador.md",
     "Productos interesantes.md",
     "Untitled.canvas",
-    "Programación/Temario/Javascript/Ejercicios/Taller 2.md",
     "README.md",
-    "Programación/Temario/Indice.md",
-    "Programación/Lenguajes/Javascript/Control de flujo.md",
     "2024-04-30.md",
-    "Programación/Lenguajes/Javascript/Operadores.md",
-    "Programación/Lenguajes/Javascript/Tipos de datos.md",
-    "Programación/Lenguajes/Javascript/Entrada-Salida de datos.md",
     "Programación/Lenguajes/Lenguajes de Programación.md",
     "Programación/Lenguajes/Javascript/Hoisting.md",
-    "Programación/Lenguajes/Javascript/Variables.md",
-    "Programación/Temario/Javascript/Ejercicios/Taller 1.md",
-    "Programación/Lenguajes/Javascript/Que es Javascript.md",
     "Programación/Temario/Javascript/Ejercicios",
     "Programación/Temario/Javascript",
     "Programación/Conceptos/Tipado dinámico.md",
     "Programación/Temario",
     "Programación/Conceptos/Tipado estático.md",
     "Programación/Conceptos/Tipado fuerte.md",
-    "Programación/Conceptos/Tipado de datos.md",
-    "Programación/Conceptos/Tipado débil.md",
-    "Programación/Lenguajes/Javascript/Funciones.md",
     "Programación/Lenguajes/Bash",
     "Programación/Lenguajes",
     "Programación/Lenguajes/Javascript",
