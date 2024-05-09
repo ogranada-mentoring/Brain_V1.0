@@ -16,7 +16,7 @@ let turno = 1;
 
 
 // creamos una variable para poner los textos del tablero
-let vista_tablero = '    0   1   2\n   -----------\n';
+let vista_tablero = '    1   2   3\n   -----------\n';
 for(let i=0; i<3; i++) {
 	// extraemos los valores de las casillas del tablero
     let a = ' ';
@@ -51,7 +51,10 @@ while(ejecutar) {
         let fila_u = -1;
         let pedir_fila = true;
         while (pedir_fila) {
-            fila_u = parseInt(prompt('Ingrese una fila:'));
+	        const c_file = prompt('Ingrese una fila:');
+            fila_u = (
+	            parseInt(c_fila) + 1
+            );
             if (fila_u >= 0 && fila_u < 3) {
                 pedir_fila = false;
             } else {
@@ -61,7 +64,10 @@ while(ejecutar) {
         let columna_u = -1;
         let pedir_columna = true;
         while (pedir_columna) {
-            columna_u = parseInt(prompt('Ingrese una columna:'));
+	        const c_columna = prompt('Ingrese una columna:');
+            columna_u = (
+	            parseInt(c_columna) + 1;
+            );
             if (columna_u >= 0 && columna_u < 3) {
                 pedir_columna = false;
             } else {
