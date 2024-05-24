@@ -11,8 +11,8 @@ Ejemplos:
 
 // while ( <expresion> ) <sentencia> 
 
-const edad = 1;
-while (edad > 18) { // sentencia tipo bloque
+let edad = 1;
+while (edad < 18) { // sentencia tipo bloque
 	console.log('tiene ' + edad + ' años');
 	edad = edad + 1;
 } // fin de sentencia tipo bloque
@@ -26,7 +26,7 @@ Ejemplos:
 
 ```js
 
-// do  <sentencia>  while ( <expresion> )
+// do <sentencia>  while ( <expresion> );
 
 const edad = 1;
 do { // sentencia tipo bloque
@@ -50,9 +50,9 @@ Ejemplos:
 // ) <sentencia>
 
 for (
-	let contador = 0;
-	contador < 10;
-	contador = contador +1
+	let contador = 0, contador1 = 0;
+	contador < 10 && contador2 < 300;
+	contador = contador +1, contador2 = contador1 * 10
 ) console.log(`EL contador es ${contador}`)
 
 

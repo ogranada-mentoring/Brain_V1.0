@@ -5,5 +5,5 @@
 * [[Expresiones y Sentencias]]
 * [[Control de flujo]]
 	* [[Taller 2]]
-* Ciclos
-* Taller 3 (triqui v1)
+* [[Ciclos]]
+	* Taller 3 ([[Triqui_v1]])
